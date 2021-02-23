@@ -1,0 +1,30 @@
+title {
+  background-color:#beed9f;
+  font-family:century gothic;
+  text-align: center;
+  color: white;
+}
+body {
+  background-color:#beed9f;
+  font-family:century gothic;
+  text-align: center;
+  border:2px solid DodgerBlue;
+}
+h1 {
+  background-color:#476e2d;
+  font-family:century gothic;
+  text-align: center;
+  color: white;
+}
+h2 {
+  background-color:#476e2d;
+  font-family:century gothic;
+  text-align: center;
+  color: white;
+  
+}
+form {
+  background-color:#beed9f;
+  font-family:century gothic;
+  text-align: center;
+}
